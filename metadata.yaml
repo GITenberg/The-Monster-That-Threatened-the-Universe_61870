@@ -1,0 +1,38 @@
+_repo: The-Monster-That-Threatened-the-Universe_61870
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Lynch, Don (Artist)
+    gutenberg_agent_id: '51621'
+    url: http://www.gutenberg.org/2009/agents/51621
+creator:
+  author:
+    agent_name: Winterbotham, R. R. (Russell Robert)
+    aliases:
+    - Winterbotham, R.R.
+    - Winterbotham, Russ
+    - Winterbotham, Russell Robert
+    birthdate: 1904
+    deathdate: 1971
+    gutenberg_agent_id: '25195'
+    url: http://www.gutenberg.org/2009/agents/25195
+    wikipedia: https://en.wikipedia.org/wiki/Russell_R._Winterbotham
+description: ''
+gutenberg_issued: '2020-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61870'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Criminals -- Fiction'
+- !lcsh 'Extraterrestrial beings -- Fiction'
+- GITenberg
+title: The Monster That Threatened the Universe
+url: http://www.gutenberg.org/ebooks/61870
